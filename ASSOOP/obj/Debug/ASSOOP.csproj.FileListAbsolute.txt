@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\ASSOOP\ASSOOP\bin\Debug\ASSOOP.exe.config
+C:\Users\PC\source\repos\ASSOOP\ASSOOP\bin\Debug\ASSOOP.exe
+C:\Users\PC\source\repos\ASSOOP\ASSOOP\bin\Debug\ASSOOP.pdb
+C:\Users\PC\source\repos\ASSOOP\ASSOOP\obj\Debug\ASSOOP.Properties.Resources.resources
+C:\Users\PC\source\repos\ASSOOP\ASSOOP\obj\Debug\ASSOOP.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\ASSOOP\ASSOOP\obj\Debug\ASSOOP.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ASSOOP\ASSOOP\obj\Debug\ASSOOP.exe
+C:\Users\PC\source\repos\ASSOOP\ASSOOP\obj\Debug\ASSOOP.pdb
+C:\Users\PC\source\repos\ASSOOP\ASSOOP\obj\Debug\ASSOOP.Objects.MainCharacter.MainCharacter_Resource.resources
+C:\Users\PC\source\repos\ASSOOP\ASSOOP\obj\Debug\ASSOOP.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ASSOOP\ASSOOP\obj\Debug\ASSOOP.Form1.resources
